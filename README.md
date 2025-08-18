@@ -1,14 +1,14 @@
 # 🎸 Guitar Shop
 Este proyecto es un e-commerce de guitarras desarrollado con React y TypeScript, creado con el propósito de practicar y reforzar el uso de React Hooks y conceptos fundamentales de tipado estático.
 
-## ✨ Características
+##  Características
 
-- 📑 Catálogo de guitarras con detalles y precios.
-- 🛒 Carrito de compras para agregar productos.
-- 💰 Cálculo dinámico del total de la compra.
-- ⚛️ Gestión del estado con hooks como `useState`, `useEffect` y `useMemo`.
+-  Catálogo de guitarras con detalles y precios.
+-  Carrito de compras para agregar productos.
+-  Cálculo dinámico del total de la compra.
+-  Gestión del estado con hooks como `useState`, `useEffect` y `useMemo`.
 
-## 🎯 Objetivo
+##  Objetivo
 
 El enfoque principal del proyecto es:
 
@@ -16,13 +16,13 @@ El enfoque principal del proyecto es:
 - Utilizar tipado estricto con TypeScript.
 - Crear una arquitectura modular y escalable para aplicaciones frontend.
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - React
 - TypeScript
 - Vite (entorno de desarrollo)
 
-## 🚀 Instalación y uso
+##  Instalación y uso
 
 1. Clonar el repositorio:
 
