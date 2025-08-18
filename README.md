@@ -1,5 +1,4 @@
-# 🎸 E-commerce de Guitarras
-
+# 🎸 Guitar Shop
 Este proyecto es un e-commerce de guitarras desarrollado con React y TypeScript, creado con el propósito de practicar y reforzar el uso de React Hooks y conceptos fundamentales de tipado estático.
 
 ## ✨ Características
@@ -28,7 +27,7 @@ El enfoque principal del proyecto es:
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/TU-USUARIO/guitar-ecommerce.git
+   https://github.com/Yuly-katherine/shop-guitar.git
    ```
 
 2. Instalar dependencias:
