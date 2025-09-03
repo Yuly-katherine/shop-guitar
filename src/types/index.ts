@@ -1,3 +1,5 @@
+import type { CartActions } from "../reducers/cart-reducer"
+
 export type Guitar = {
     id: number
     name: string
@@ -17,16 +19,11 @@ export type CartItem = Guitar & {
 
 export type GuitarProps = {
     guitar: Guitar,
-    addToCart: (item:Guitar) => void
+    dispatch: React.Dispatch<CartActions>
 }
 
 
 export type HeaderProps = {
     cart: CartItem[],
-    removeFromCart: (id: Guitar['id']) => void
-    increaseQuantity: (id: Guitar['id']) => void
-    decreaseQuantity : (id: Guitar['id']) => void
-    cleanCart: () => void
-    isEmpty: boolean
-    cartTotal: number
+    dispatch : React.Dispatch<CartActions>
 }
